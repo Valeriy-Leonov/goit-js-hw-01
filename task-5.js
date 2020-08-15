@@ -1,5 +1,4 @@
 const countryName = 'КитаЙ';
-
 const CANCELED_BY_USER = 'Отменено пользователем!';
 const NO_DELIVERY = 'В выбранную страну доставка недоступна.';
 const CHINA = 'Китай';
@@ -39,8 +38,6 @@ if (price > 0) {
 }
 
 console.log(message);
-
-// console.log(message);
 
 //если countryName равно "КитаЙ"
 // то значение message будет равно
